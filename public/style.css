@@ -1,0 +1,39 @@
+*{
+    font-family: 'Encode Sans SC', sans-serif;
+
+}
+
+.main{
+    width: 220px;
+    background-color: rgb(80, 123, 158);
+    margin: auto;
+    text-align: center;
+    height: 330px;
+ margin-top: 150px;
+ 
+
+
+    
+}
+
+
+
+
+
+ #result{
+     height: 80px;
+
+    margin:15px 0px 0px 0px;
+
+ }
+ .clearBtn{
+     margin-top: 10px;
+     background-color:red;
+     color: white;
+ }
+ .btn{
+    margin-top: 15px;
+     border: 2px solid yellow;
+     border-radius: 6px;
+
+     }
